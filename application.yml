@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: SERVER-ComingCOnfig
+
 eureka:
   instance:
     hostname: localhost
